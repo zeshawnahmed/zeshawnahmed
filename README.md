@@ -5,7 +5,7 @@
 - My Business/Data Analysis projects -> https://github.com/zeshawnahmed/Business-Data-Analysis and https://github.com/zeshawnahmed/Business-Data-Analysis-Continued
 <br><br>Recent Projects:
 - I created an interactive health app (BMI Calculator), check your health status here -> [Link to BMI Calculator](https://shorturl.at/stxyJ)
-- I created a responsively designed website for mobile and webapp for SF restaurant -> [Link To Website Shell](https://rb.gy/o8laxv)
+- I created a responsively designed website for mobile and webapp for SF restaurant, with light and dark mode -> [Link To Website Shell](https://rb.gy/o8laxv)
 <!--
 **zeshawnahmed/zeshawnahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
